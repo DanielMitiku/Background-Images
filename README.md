@@ -1,2 +1,2 @@
-# Background-Images
-Responsive Background Images
+Project on Responsive Background Images
+Contributor - Daniel Mitiku
